@@ -33,5 +33,6 @@ This will also need a CDN (content delivery network) to upload the image of the 
 
 Please utilize MaterialUI to style and AWS EC2 instance to deploy.
 
-![image](https://github.com/Haseeb-Moheb/Espressonist-Capstone-Project/assets/118638791/15a03d7b-000e-447f-bec4-d0a0aa086b0e)
+![Espressonist](https://github.com/Haseeb-Moheb/Espressonist-Capstone-Project/assets/118638791/07e1b9e3-ec10-4575-b69a-43ce6e9ee5ca)
+
 
